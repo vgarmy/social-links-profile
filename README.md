@@ -49,4 +49,4 @@ Focus on simplified code
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vgarmy)
+- Frontend Mentor - [@vgarmy](https://www.frontendmentor.io/profile/vgarmy)
