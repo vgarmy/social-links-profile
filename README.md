@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vgarmy/social-links-profile)
-- Live Site URL: [Add live site URL here](https://vgarmy.github.io/social-links-profile/)
+- Solution URL: [solution URL](https://github.com/vgarmy/social-links-profile)
+- Live Site URL: [live site URL](https://vgarmy.github.io/social-links-profile/)
 
 ## My process
 
