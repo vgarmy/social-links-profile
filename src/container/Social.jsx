@@ -22,11 +22,11 @@ function Social() {
       </div>
       <div className="card__container_social">
         {data.map((item, index) => (
-          <div className="card__container_social_item" key={index}>
-            <a href={item.link} target="_blank" rel="noreferrer">
-              {item.socailChannel}
-            </a>
-          </div>
+          <a href={item.link} target="_blank" rel="noreferrer">
+            <div className="card__container_social_item" key={index}>
+                {item.socailChannel}
+            </div>
+          </a>
         ))}
       </div>
     </div>

@@ -51,10 +51,21 @@ h2 {
   padding: 1rem;
   border-radius: 0.5rem;
   background: var(--Grey);
+  text-decoration: none;
 }
 
-.card__container_social_item a {
+a .card__container_social_item  {
   color: var(--White);
   font-weight: 600;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a .card__container_social_item:hover{
+  background: var(--Green); 
+  color: var(--Grey);
   text-decoration: none;
 }
